@@ -33,15 +33,34 @@ public:
         // code here
         
         // Recursive Approach->
+        // int i=0;
+        // while(i<n)
+        // {
+        //     if((i+k-1) <=n-1){
+        //         rec(arr, i, i+k-1);
+        //     }
+        //     else{
+        //         rec(arr, i, n-1);
+        //     }
+        //     i += k;
+        // }
+        
+        // Iterative Approach->
         int i=0;
         while(i<n)
         {
-            if((i+k-1) <=n-1){
-                rec(arr, i, i+k-1);
+            int start = i, end= i+k-1;
+            if(end > n-1){
+                end = n-1;
             }
-            else{
-                rec(arr, i, n-1);
+            while(start<=end)
+            {
+                long long temp = arr[start];
+                arr[start] = arr[end];
+                arr[end] = temp;
+                start++, end--;
             }
+            
             i += k;
         }
     }
