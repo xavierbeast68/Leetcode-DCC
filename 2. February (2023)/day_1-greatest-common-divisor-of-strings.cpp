@@ -1,3 +1,5 @@
+//* https://leetcode.com/problems/greatest-common-divisor-of-strings/
+
 class Solution {
 public:
     string joinwords(string base, int times){
@@ -24,7 +26,6 @@ public:
     string gcdOfStrings(string str1, string str2) {
         
         int len1 = str1.length(), len2 = str2.length();
-        // string base = len1 < len2 ? str1 : str2;
         for (int i = min(len1, len2); i >= 1; --i)
         {
             if(isValid(str1, str2, i))
