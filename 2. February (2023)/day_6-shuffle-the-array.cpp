@@ -1,5 +1,4 @@
 //* https://leetcode.com/problems/shuffle-the-array/
-//* https://leetcode.com/problems/shuffle-the-array/submissions/892455163/
 
 class Solution {
 public:
