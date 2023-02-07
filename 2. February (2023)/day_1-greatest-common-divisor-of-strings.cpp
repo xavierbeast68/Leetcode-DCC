@@ -1,4 +1,6 @@
 //* https://leetcode.com/problems/greatest-common-divisor-of-strings/
+//* https://leetcode.com/problems/shuffle-the-array/submissions/892455163/
+//* https://www.youtube.com/watch?v=i5I_wrbUdzM&ab_channel=NeetCodeIO
 
 class Solution {
 public:

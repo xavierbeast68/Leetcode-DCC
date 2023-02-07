@@ -1,5 +1,8 @@
-// https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3143576/c-easy-solution-sliding-window-approach-heavily-commented/
-// https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3139748/easy-understandable-solution/
+//* https://leetcode.com/problems/find-all-anagrams-in-a-string/
+//* https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/
+//* https://www.youtube.com/watch?v=G8xtZy0fDKg&ab_channel=NeetCode
+//* https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3143576/c-easy-solution-sliding-window-approach-heavily-commented/
+//* https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3139748/easy-understandable-solution/
 
 class Solution {
 public:

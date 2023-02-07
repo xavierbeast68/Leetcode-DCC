@@ -1,4 +1,7 @@
 //* https://leetcode.com/problems/shuffle-the-array/
+//* https://leetcode.com/problems/shuffle-the-array/submissions/892455163/
+//* https://www.youtube.com/watch?v=IvIKD_EU8BY&ab_channel=NeetCodeIO
+//* https://leetcode.com/problems/shuffle-the-array/solutions/2973933/shuffle-the-array/
 
 class Solution {
 public:
