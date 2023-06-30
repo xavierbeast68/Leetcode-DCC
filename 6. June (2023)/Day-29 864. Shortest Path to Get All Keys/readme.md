@@ -36,6 +36,7 @@ Return the lowest number of moves to acquire all keys. If it is impossible, retu
 
 <!-- example 1 -->
 <strong>Example 1:</strong>
+
 ![Alt text](lc-keys2.jpg)
 <pre>
 <strong>Input:</strong> grid = ["@.a..","###.#","b.A.B"]
@@ -45,6 +46,7 @@ Return the lowest number of moves to acquire all keys. If it is impossible, retu
 
 <!-- example 2 -->
 <strong>Example 2:</strong>
+
 ![Alt text](lc-key2.jpg)
 <pre>
 <strong>Input:</strong> grid = ["@..aA","..B#.","....b"]
@@ -52,8 +54,9 @@ Return the lowest number of moves to acquire all keys. If it is impossible, retu
 </pre>
 
 <!-- example 3 -->
-<strong>Ex![Alt text](lc-keys3.jpg)ample 3:</strong>
+<strong>Example 3:</strong>
 
+![Alt text](lc-keys3.jpg)
 <pre>
 <strong>Input:</strong> grid = ["@Aa"]
 <strong>Output:</strong> -1
