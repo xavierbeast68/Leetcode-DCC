@@ -11,7 +11,7 @@
 <!-- Tags -->
 <p><b>Problem Tags : </b>
 <code>Arrays</code>&nbsp;&nbsp;<code>
-Dynamic Programming</code>&nbsp;&nbsp;<code>Backtracking</code>&nbsp;&nbsp;<code>Bit Manipulation</code>&nbsp;&nbsp;<code>Bitmask</code>&</p>
+Dynamic Programming</code>&nbsp;&nbsp;<code>Backtracking</code>&nbsp;&nbsp;<code>Bit Manipulation</code>&nbsp;&nbsp;<code>Bitmask</code></p>
 
 </br>
 
